@@ -1,0 +1,194 @@
+{
+    "carreras": [
+        {
+            "nombre": "Técnico en Ingeniería en Computación",
+            "materias": [
+                {
+                    "codigo": "ANF231",
+                    "nombre": "Antropología Filosófica",
+                    "uv": 3,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "PAL404",
+                    "nombre": "Programacion de Algoritmos",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "ALG501",
+                    "nombre": "Algebra Vectorial y Matrices",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "LME404",
+                    "nombre": "Lenguajes de Marcado y Estilo Web",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "PSC231",
+                    "nombre": "Pensamiento Social Cristiano",
+                    "uv": 3,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "POO404",
+                    "nombre": "Programacion Orientada a Objetos",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "PAL404"
+                    ]
+                },
+                {
+                    "codigo": "DAW404",
+                    "nombre": "Desarrollo de Aplicaciones Web con Sofware Interpretados en el Cliente",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "LME404"
+                    ]
+                },
+                {
+                    "codigo": "DSP404",
+                    "nombre": "Desarrollo de Aplicaciones con Sofware Propietario",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "PAL404"
+                    ]
+                },
+                {
+                    "codigo": "ASB404",
+                    "nombre": "Analisis y Diseño de Sistemas y Base de Datos",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "PAL404"
+                    ]
+                },
+                {
+                    "codigo": "REC404",
+                    "nombre": "Redes de Comunicacion",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Ingeniería en Ciencias de la Computación",
+            "materias": [
+                {
+                    "codigo": "CAD501",
+                    "nombre": "Calculo Diferencial",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "QUG501",
+                    "nombre": "Quimica General",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "ANF231",
+                    "nombre": "Antropología Filosófica",
+                    "uv": 3,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "PRE104",
+                    "nombre": "Programacion Estructurada",
+                    "uv": 4,
+                    "ciclo": 1,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "ALG501",
+                    "nombre": "Algebra Vectorial y Matrices",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "Bachillerato"
+                    ]
+                },
+                {
+                    "codigo": "CAI501",
+                    "nombre": "Calculo Intregral",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "CAD501"
+                    ]
+                },
+                {
+                    "codigo": "MDB104",
+                    "nombre": "Modelamiento y Diseño de Base de Datos",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "PRE104"
+                    ]
+                },
+                {
+                    "codigo": "POO404",
+                    "nombre": "Programacion Orientada a Objetos",
+                    "uv": 4,
+                    "ciclo": 2,
+                    "prerrequisitos": [
+                        "PRE104"
+                    ]
+                },
+                {
+                    "codigo": "CVV501",
+                    "nombre": "Calculo de Varias Variables",
+                    "uv": 4,
+                    "ciclo": 3,
+                    "prerrequisitos": [
+                        "CAI501"
+                    ]
+                },
+                {
+                    "codigo": "CDP501",
+                    "nombre": "Cinematica y Dinamica de Particulas",
+                    "uv": 4,
+                    "ciclo": 3,
+                    "prerrequisitos": [
+                        "CAD501"
+                    ]
+                }
+            ]
+        }
+    ]
+}
